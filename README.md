@@ -49,7 +49,9 @@ These figures describe the dataset, not current Airbnb market conditions. Listed
 
 ## Tableau Dashboard
 
-**Interactive Dashboard:** *Add your Tableau Public dashboard link here after publishing.*
+**Interactive Dashboard:** [Explore the NYC Airbnb Analysis 2019 Dashboard on Tableau Public](https://public.tableau.com/app/profile/md.osama8392/viz/NYC_dashboard-/NYCAirbnbAnalysis2019)
+
+Explore interactive visualizations of Airbnb listing distribution, pricing, room types, and availability across New York City.
 
 The dashboard presents key performance indicators and visual comparisons of Airbnb listings across boroughs and room types.
 
